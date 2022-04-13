@@ -1,0 +1,7 @@
+import_trello.php
+
+
+# Le dossier vendor doit être ignoré 
+/vendor/
+
+/app/config.ini
